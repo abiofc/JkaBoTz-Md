@@ -3,7 +3,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	// ‼️ NOTE: Link script Jangan diubah, dihapus atau diganti
 let text = `❏ *📮 Script Multi Device*
 │• *Base :* 
-│↳ github.com/bochilgaming/games-wabot-md/
+│↳ Ngapain
 ┗──────────═┅═──────────
 📍 *N o t e :* 
 • Jangan lupa minta izin owner sebelum menggunakan scriptnya kak!
