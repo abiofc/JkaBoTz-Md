@@ -263,7 +263,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 const listMessage = {
   text: tek,
   footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
-  title: `${htki} *MIAW BOT-MD* ${htka}`,
+  title: `${htki} *YUKINOBOT-MD* ${htka}`,
   buttonText: `LIST MENU ⎙`,
   sections
 }
@@ -470,7 +470,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `MyWeb`,
-                        url: 'https://farz-api.herokuapp.com/'
+                        url: 'https://github.com/abituru/'
                     }
                 },
                 {
