@@ -28,33 +28,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/Zetwo_botz/'
-global.sgh = 'https://github.com/JakaV1'
-global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.sdc = 'Wa.me/6285785694474'
+global.sig = 'https://www.instagram.com/abityru24/'
+global.sgh = 'https://github.com/abiofc'
+global.sgc = 'https://chat.whatsapp.com/ERrRJ18SMI20NZbYvq7E3w'
+global.sdc = 'wa.me/6288232154376'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '6281335334848'
+global.pdana = '083812737630'
 global.povo = '-'
-global.pgopay = '6285785694474'
-global.ppulsa = '6281335334848'
-global.ppulsa2 = '6281335334848'
+global.pgopay = ''
+global.ppulsa = '083812737630'
+global.ppulsa2 = '088232154376'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281335334848'
-global.nomorown = '79911716214'
-global.namebot = 'ZeroTwo-Botz'
-global.nameown = 'Jaka-Kun'
+global.nomorbot = '48459063898'
+global.nomorown = '6288232154376'
+global.namebot = 'Yukino bot'
+global.nameown = 'AbiXynz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['79911716214'],
-  ['79911716214'],
-  ['79911716214'],
-  ['6285785694474', '❦ Jaka', true]
+  ['48459063898'],
+  ['48459063898'],
+  ['6288232154376'],
+  ['6288232154376', '❦ AbiXynz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,13 +99,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ZeroTwo Botz あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZeroTwo Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ZeroTwo Botz'
+global.wm = '                「 Yukino bot あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yukino Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Yukino Bot'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ ZeroTwo Botz Whatsapp | By ${global.nameown}`
-global.author = '                「 ZeroTwo Botz あ⁩ 」'
+global.titlebot = `⫹⫺ Yukino Bot Whatsapp | By ${global.nameown}`
+global.author = '                「 Yukino Bot あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -147,7 +147,7 @@ global.thumbdoc = 'https://telegra.ph/file/3456faba4f4019fc85875.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fpagedoc = '99999999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
@@ -173,9 +173,9 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\nM\ni\na\nw\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\Y\u\k\i\n-\n\𝗢\b\o\t\z⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
-global.multiplier = 38 // The higher, The harder levelup
+global.multiplier = 69 // The higher, The harder levelup
 
 /*============== EMOJI ==============*/
 global.rpg = {
